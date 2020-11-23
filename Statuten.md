@@ -12,7 +12,7 @@ Kamuro Feuerwerksverein Statuten
 
 - II. [Mitgliedschaft](#ii-mitgliedschaft)
   - Art. 3 [Mitglieder](#art3-mitglieder)
-  - Art. 4 [Aufnahme von Mitgliedern](#art4-aufnahme-von-mitglieder)
+  - Art. 4 [Aufnahme von Mitgliedern](#art4-aufnahme-von-mitgliedern)
   - Art. 5 [Beendingung der Mitgliedschaft](#art5-beendingung-der-mitgliedschaft)
 
 
@@ -32,15 +32,15 @@ Kamuro Feuerwerksverein Statuten
      - Art.12 [Beschlüsse der Vereinsversammlung](#art12-beschlüsse-der-vereinsversammlung)
   
 
-  2. [Der Vorstand](2-der-vorstand)
-     - Art.13 [Zusammensetzung](#art13-zusammensetzung)
+  2. [Der Vorstand](#2-der-vorstand)
+     - Art.13 [Zusammensetzung des Vorstands](#art13-zusammensetzung-des-vorstands)
      - Art.14 [Einberufung, Organisation, Protokollführung](#art14-einberufung-organisation-protokollführung)
      - Art.15 [Befugnisse, Kompetenzen](#art15-befugnisse-und-kompetenzen)
      - Art.16 [Beschlüsse des Vorstandes](#art16-beschlüsse-des-vorstandes)
  
 
    3. [Die Revisionsstelle](#3-die-revisionsstelle)
-      - Art.17 [Zusammensetzung]()
+      - Art.17 [Zusammensetzung der Revisionsstelle](#art17-zusammensetzung-der-revisionsstelle)
 
 
 - V. [Geschäftsjahr und Rechnungsabschluss](#v-geschäftsjahr-und-rechnungsabschluss)
@@ -133,7 +133,7 @@ Die Vereinsversammlung ist für die nachfolgend aufgeführten Beschlüsse zustä
 
 
 ### 2. Der Vorstand
-#### Art.13 Zusammensetzung
+#### Art.13 Zusammensetzung des Vorstands
 Der Vorstand setzt sich aus drei Mitgliedern zusammmen und wird alle 2 Jahre durch die Vereinsversammlung neu gewählt oder bestätigt. Der Vorstand konstituiert sich selbst.
 
 Der Vorstand besteht aus
@@ -163,7 +163,7 @@ Der Vorstand ist das leitende Organ des Vereins und entscheidet über alle Angel
 
 
 ### 3. Die Revisionsstelle
-#### Art.17 Zusammensetzung
+#### Art.17 Zusammensetzung der Revisionsstelle
 Auf eine Revisionsstelle wird grundsätzlich verzichtet. Die Wahl und Beauftragung einer solchen kann jedoch durch die VV beantragt werden.
 
 ## V. Geschäftsjahr und Rechnungsabschluss
