@@ -5,9 +5,9 @@ Kamuro Feuerwerksverein Statuten
 
 ##### Inhaltsverzeichnis
 
-- I. [Name, Sitz und Zweck](#I.-Name,-Sitz-und-Zweck)
-  - Art. 1 Name und Sitz
-  - Art. 2 Zweck
+- I. [Name, Sitz und Zweck](#i-name-sitz-und-zweck)
+  - [Art. 1 Name und Sitz](#art1-name-und-sitz)
+  - [Art. 2 Zweck](#art2-zweck)
 
 
 - II. [Mitgliedschaft](#mitgliedschaft)
