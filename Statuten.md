@@ -6,50 +6,50 @@ Kamuro Feuerwerksverein Statuten
 ##### Inhaltsverzeichnis
 
 - I. [Name, Sitz und Zweck](#i-name-sitz-und-zweck)
-  - [Art. 1 Name und Sitz](#art1-name-und-sitz)
-  - [Art. 2 Zweck](#art2-zweck)
+  - Art. 1 [Name und Sitz](#art1-name-und-sitz)
+  - Art. 2 [Zweck](#art2-zweck)
 
 
-- II. [Mitgliedschaft](#mitgliedschaft)
-  - Art. 3 Mitglieder
-  - Art. 4 Aufnahme von Mitgliedern
-  - Art. 5 Beendingung der Mitgliedschaft
+- II. [Mitgliedschaft](#ii-mitgliedschaft)
+  - Art. 3 [Mitglieder](#art3-mitglieder)
+  - Art. 4 [Aufnahme von Mitgliedern](#art4-aufnahme-von-mitglieder)
+  - Art. 5 [Beendingung der Mitgliedschaft](#art5-beendingung-der-mitgliedschaft)
 
 
-- III. [Rechte und Pflichten der Mitglieder](#rechte-und-pflichten-der-mitglieder)
-  - Art. 6 Mitgliederbeiträge und Finanzierung
-  - Art. 7 Haftungsauschluss
+- III. [Rechte und Pflichten der Mitglieder](#iii-rechte-und-pflichten-der-mitglieder)
+  - Art. 6 [Mitgliederbeiträge und Finanzierung](#art6-mitgliederbeiträge-und-finanzierung)
+  - Art. 7 [Haftungsauschluss](#art7-haftungsauschluss)
 
 
-- IV. [Organisation](#organisation)
-  - Art. 8 Organe
+- IV. [Organisation](#iv-organisation)
+  - Art. 8 [Organe](#art8-die-organe-des-vereins-sind)
 
 
-  1. Die Vereinsversammlung
-     - Art. 9 Einberufung, Traktanden
-     - Art.10 Vorsitz und Protokoll
-     - Art.11 Vereinsversammlung, Zuständigkeit
-     - Art.12 Beschlüsse der Vereinsversammlung
+  1. [Die Vereinsversammlung](#1-die-vereinsversammlung)
+     - Art. 9 [Einberufung, Traktanden](#art9-einberufung-traktanden)
+     - Art.10 [Vorsitz und Protokoll](#art10-vorsitz-und-protokoll)
+     - Art.11 [Vereinsversammlung, Zuständigkeit](#art11-vereinsversammlung-zuständigkeit)
+     - Art.12 [Beschlüsse der Vereinsversammlung](#art12-beschlüsse-der-vereinsversammlung)
   
 
-  2. Der Vorstand
-     - Art.13 Zusammensetzung
-     - Art.14 Einberufung, Organisation, Protokollführung
-     - Art.15 Befugnisse, Kompetenzen
-     - Art.16 Beschlüsse des Vorstandes
+  2. [Der Vorstand](2-der-vorstand)
+     - Art.13 [Zusammensetzung](#art13-zusammensetzung)
+     - Art.14 [Einberufung, Organisation, Protokollführung](#art14-einberufung-organisation-protokollführung)
+     - Art.15 [Befugnisse, Kompetenzen](#art15-befugnisse-und-kompetenzen)
+     - Art.16 [Beschlüsse des Vorstandes](#art16-beschlüsse-des-vorstandes)
  
 
-   3. Die Revisionsstelle
-      - Art.17 Zusammensetzung
+   3. [Die Revisionsstelle](#3-die-revisionsstelle)
+      - Art.17 [Zusammensetzung]()
 
 
-- V. Geschäftsjahr und Rechnungsabschluss
-  - Art.18	Geschäftsjahr und Rechnungsabschluss
+- V. [Geschäftsjahr und Rechnungsabschluss](#v-geschäftsjahr-und-rechnungsabschluss)
+  - Art.18	[Geschäftsjahr und Rechnungsabschluss](#art18-geschäftsjahr-und-rechnungsabschluss)
 
 
-- VI. Schlussbestimmungen
-  - Art.19 Auflösung und Liquidation
-  - Art.20 Beschluss, Inkrafttreten
+- VI. [Schlussbestimmungen](#vi-schlussbestimmungen)
+  - Art.19 [Auflösung und Liquidation](#art19-auflösung-und-liquidation)
+  - Art.20 [Beschluss, Inkrafttreten](#art20-beschluss-inkrafttreten)
 
 
 ## I. Name, Sitz und Zweck
@@ -82,13 +82,13 @@ Die Mitgliedschaft steht natürlichen Personen offen, welche an den Zielen und Z
 
 
 ## III. Rechte und Pflichten der Mitglieder
-### Art. 6 Mitgliederbeiträge und Finanzierung
+### Art.6 Mitgliederbeiträge und Finanzierung
 1. Die Mitglieder des Vereins leisten einen Mitgliederbeitrag welcher jährlich an der Vereinsversammlung festgelegt wird.
 2. Der ordentliche Mitgliederbeitrag wird jeweils 30 Tage nach Rechnungsstellung fällig.
 3. Neben Mitgliederbeiträgen finanziert sich der Verein aus Einnahmen von Anlässen, freiwillgen Zuwendungen/Spenden und Geschenken.
 
 
-### Art. 7 Haftungsauschluss
+### Art.7 Haftungsauschluss
 1. Für die Verbindlichkeiten des Vereins haftet ausschliesslich das Vereinsvermögen. Die Haftung der Mitglieder beschränkt sich auf die von der Vereinsversammlung festgehaltenen, finanziellen Beiträge.
 2. Jede weitere Haftung der Mitglieder für Verbindlichkeiten des Vereins ist ausgeschlossen.
 
@@ -163,17 +163,18 @@ Der Vorstand ist das leitende Organ des Vereins und entscheidet über alle Angel
 
 
 ### 3. Die Revisionsstelle
+#### Art.17 Zusammensetzung
 Auf eine Revisionsstelle wird grundsätzlich verzichtet. Die Wahl und Beauftragung einer solchen kann jedoch durch die VV beantragt werden.
 
-## V.Geschäftsjahr und Rechnungsabschluss
-### Art. 17	Geschäftsjahr und Rechnungsabschluss
+## V. Geschäftsjahr und Rechnungsabschluss
+### Art.18 Geschäftsjahr und Rechnungsabschluss
 1. Das Geschäftsjahr beginnt am 1. Januar und endet am 31. Dezember. Auf diesen Zeitpunkt ist die Rechnung abzuschliessen.
 
 ## VI. Schlussbestimmungen
-### Art.18. Auflösung und Liquidation
+### Art.19 Auflösung und Liquidation
 1. Die Auflösung und Liquidation des Vereins kann nur durch die Vereinsversammlung, an welcher mindestens 2/3 der Stimmberechtigten Mitglieder anwesend sind, beschlossen werden.
 2. Die Vereinsversammlung entscheidet über die Verwendung des Vereinsvermögens.
 
-### Art.19 Beschluss, Inkrafttreten
+### Art.20 Beschluss, Inkrafttreten
 1. Die vorstehenden Statuten sind an der ordentlichen Gründungsversammlung des Vereins vom 21. November 2020 in Zuzwil SG genehmigt worden.
 2. Die vorliegenden Statuten treten unmittelbar nach Annahme durch die Vereinsversammlung in Kraft.
