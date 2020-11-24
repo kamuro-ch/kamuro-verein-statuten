@@ -16,7 +16,7 @@
 
 - III. [Rechte und Pflichten der Mitglieder](#iii-rechte-und-pflichten-der-mitglieder)
   - Art. 6 [Mitgliederbeiträge und Finanzierung](#art6-mitgliederbeiträge-und-finanzierung)
-  - Art. 7 [Haftungsauschluss](#art7-haftungsauschluss)
+  - Art. 7 [Haftungsausschluss](#art7-haftungsausschluss)
 
 
 - IV. [Organisation](#iv-organisation)
@@ -86,7 +86,7 @@ Die Mitgliedschaft steht natürlichen Personen offen, welche an den Zielen und Z
 3. Neben Mitgliederbeiträgen finanziert sich der Verein aus Einnahmen von Anlässen, freiwillgen Zuwendungen/Spenden und Geschenken.
 
 
-### Art.7 Haftungsauschluss
+### Art.7 Haftungsausschluss
 1. Für die Verbindlichkeiten des Vereins haftet ausschliesslich das Vereinsvermögen. Die Haftung der Mitglieder beschränkt sich auf die von der Vereinsversammlung festgehaltenen, finanziellen Beiträge.
 2. Jede weitere Haftung der Mitglieder für Verbindlichkeiten des Vereins ist ausgeschlossen.
 
@@ -111,7 +111,7 @@ Die Mitgliedschaft steht natürlichen Personen offen, welche an den Zielen und Z
 
 
 #### Art.11 Vereinsversammlung, Zuständigkeit
-Die Vereinsversammlung ist für die nachfolgend aufgeführten Beschlüsse zuständig:
+- Die Vereinsversammlung ist für die nachfolgend aufgeführten Beschlüsse zuständig:
 1. Genehmigung des Jahresberichtes, der Jahresrechnung
 2. Genehmigung des Budgets
 3. Festlegen der Jahresbeiträge
@@ -132,7 +132,7 @@ Die Vereinsversammlung ist für die nachfolgend aufgeführten Beschlüsse zustä
 
 ### 2. Der Vorstand
 #### Art.13 Zusammensetzung des Vorstands
-Der Vorstand setzt sich aus drei Mitgliedern zusammmen und wird alle 2 Jahre durch die Vereinsversammlung neu gewählt oder bestätigt. Der Vorstand konstituiert sich selbst.
+- Der Vorstand setzt sich aus drei Mitgliedern zusammmen und wird alle 2 Jahre durch die Vereinsversammlung neu gewählt oder bestätigt. Der Vorstand konstituiert sich selbst.
 
 Der Vorstand besteht aus
 
@@ -148,7 +148,7 @@ Der Präsident und die weiteren Vorstandsmitglieder werden von der Vereinsversam
 3. Über die Verhandlungen des Vorstandes wird ein Protokoll geführt.
 
 #### Art.15 Befugnisse und Kompetenzen
-Der Vorstand ist das leitende Organ des Vereins und entscheidet über alle Angelegenheiten, die die Aufgaben des Vereins betreffen. Insbesondere hat er folgende Aufgaben und Kompetenzen:
+- Der Vorstand ist das leitende Organ des Vereins und entscheidet über alle Angelegenheiten, die die Aufgaben des Vereins betreffen. Insbesondere hat er folgende Aufgaben und Kompetenzen:
 
 1. Leitung des Vereins, Vollzug der statutarischen Bestimmungen sowie der Beschlüsse der Vereinsversammlung
 2. Bestimmung der mit der Vertretung des Vereins betrauten und mit der Unterschriftsberechtigung ausgestatten Personen.
@@ -162,7 +162,7 @@ Der Vorstand ist das leitende Organ des Vereins und entscheidet über alle Angel
 
 ### 3. Die Revisionsstelle
 #### Art.17 Zusammensetzung der Revisionsstelle
-Auf eine Revisionsstelle wird grundsätzlich verzichtet. Die Wahl und Beauftragung einer solchen kann jedoch durch die VV beantragt werden.
+- Auf eine Revisionsstelle wird grundsätzlich verzichtet. Die Wahl und Beauftragung einer solchen kann jedoch durch die VV beantragt werden.
 
 ## V. Geschäftsjahr und Rechnungsabschluss
 ### Art.18 Geschäftsjahr und Rechnungsabschluss
