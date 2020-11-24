@@ -1,9 +1,7 @@
-Kamuro Feuerwerksverein Statuten
-======
----
+# Kamuro Feuerwerksverein Statuten
 `Version 1.0.0, 21.11.2020`
 
-##### Inhaltsverzeichnis
+## Inhaltsverzeichnis
 
 - I. [Name, Sitz und Zweck](#i-name-sitz-und-zweck)
   - Art. 1 [Name und Sitz](#art1-name-und-sitz)
